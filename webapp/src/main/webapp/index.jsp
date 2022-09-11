@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Bipin Register for DevOps Learning</h1>
+    <h1>New Bipin is BEST</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
